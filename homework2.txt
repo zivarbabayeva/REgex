@@ -1,0 +1,6 @@
+
+Task - 2
+Daxil Edilen Mobil Nomrenin Azerbaycan Nomre Standartina Uygun Oldugnu Yoxlayan Regular Expression  (+994512373434  ))
+
+[\+\d{12,13}]
+

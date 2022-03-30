@@ -1,0 +1,5 @@
+
+Daxil Edilen Ayin Tarixi Yoxlayan Regular Expression  (dd.mm.yyyy (08.10.2020  ))
+
+/[\w\.\s]/gm
+
